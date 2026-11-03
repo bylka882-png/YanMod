@@ -37,6 +37,12 @@ dependencies:
 
 ---
 
+### 📝 Mod Description Format (`description`)
+
+* **`RU|EN`** — the description must be written strictly using a vertical bar (Russian description|English description).
+
+---
+
 ### 🗂️ Supported Mod Types (`type`)
 
 * **`Mod`** — standard mod.
