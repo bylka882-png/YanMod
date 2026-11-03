@@ -1,0 +1,13 @@
+id: "PoseMod"
+name: "PoseMod"
+by: "kgftbz"
+credits: "https://www.youtube.com/@kgftbz"
+v: "2.2"
+gameV: "U5"       # меньше или равно (<=); больше или равно (>=); >=2017.10.04; <=2019.07.01 (период то есть сборки от 4 октября 2017 до 1 июля 2019); можно указать версию unity
+description: ""
+DL_url: ""
+type: "ML"               # PM = мод для pose mod; build = не просто мод а полноценная сборка игры; TR = замена текстурок; ML = загрузчик модов; mod = обычный мод
+affected_files:
+  - ""
+dependencies:
+  - ""
