@@ -1,6 +1,6 @@
 # 🔪 YanMod
 
-🌐 [English](README.md) | 🇷🇺 [Русский]
+🌐 [English](README.md) | 🇷🇺 [Русский](README.RU.md)
 
 **Репозиторий модов для Yandere Simulator.** Все модификации упакованы в `.7z`, снабжены скриншотами `.webp` и доступны в разделе [Releases](../../releases).
 
