@@ -5,7 +5,7 @@ credits: "https://www.youtube.com/@kgftbz"
 v: "1"
 gameV: "U4"       # меньше или равно (<=); больше или равно (>=); >=2017.10.04; <=2019.07.01 (период то есть сборки от 4 октября 2017 до 1 июля 2019); можно указать версию unity
 description: ""
-DL_url: ""
+DL_url: "https://github.com/bylka882-png/YanMod/releases/download/PoseMod/PoseModU4.7z"
 type: "ML"               # PM = мод для pose mod; build = не просто мод а полноценная сборка игры; TR = замена текстурок; ML = загрузчик модов; mod = обычный мод
 affected_files:
   - ""
