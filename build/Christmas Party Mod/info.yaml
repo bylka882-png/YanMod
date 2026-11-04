@@ -1,12 +1,12 @@
 id: ""
 name: ""
-by: ""
-credits: ""
-v: ""
-gameV: ""              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
+by: "Rommy"
+credits: "https://www.youtube.com/@Rommy_ys"
+v: "1"
+gameV: "U20"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
 description: ""        # RU|EN
 DL_url: ""
-type: ""               # PM; Build; TR; ML; Mod; Plugin; Translate
+type: "Build"               # PM; Build; TR; ML; Mod; Plugin; Translate
 affected_files:
   - ""
 dependencies:
