@@ -1,11 +1,11 @@
-id: "MAS"
-name: "More Alive School Mod"
+id: "NewUniforms"
+name: "New Uniforms Mod"
 by: "joaquito_0"
 credits: ""
-v: ""
-gameV: ""              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
-description: ""        # RU|EN
-DL_url: ""
+v: "1"
+gameV: "U5"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
+description: "Тест|Test"        # RU|EN
+DL_url: "https://github.com/bylka882-png/YanMod/releases/download/NewUniforms/NewUniformsMod.7z"
 type: "PM"               # PM; Build; TR; ML; Mod; Plugin; Translate
 affected_files:
   - ""
