@@ -4,8 +4,8 @@ by: "bbepis"
 credits: "https://github.com/BepInEx/BepInEx"
 v: "5.4.22"
 gameV: "U19-U20"              # меньше или равно (<=); больше или равно (>=); 2017.10.04-2019.07.01 (период то есть сборки от 4 октября 2017 до 1 июля 2019); можно указать версию unity (U4/U5/U17/U19/U20/U6); own если сборка
-description: "https://github.com/bylka882-png/YanMod/releases/download/BepinX/BepinX5.4.22.7z"
-DL_url: ""
+description: ""
+DL_url: "https://github.com/bylka882-png/YanMod/releases/download/BepinX/BepinX5.4.22.7z"
 type: ""               # PM = мод для pose mod; build = не просто мод а полноценная сборка игры; TR = замена текстурок; ML = загрузчик модов; mod = обычный мод
 affected_files:
   - ""
