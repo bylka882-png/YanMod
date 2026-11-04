@@ -4,7 +4,7 @@ by: "Rommy"
 credits: "https://www.youtube.com/@Rommy_ys"
 v: "1"
 gameV: "U20"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
-description: ""        # RU|EN
+description: "Мод, который увеличивает количество учеников в школе до 200|A mod that increases the number of students in a school to 200."        # RU|EN
 DL_url: "https://github.com/bylka882-png/YanMod/releases/download/200Students/200Students.7z"
 type: "build"               # PM; Build; TR; ML; Mod; Plugin; Translate
 affected_files:
