@@ -1,12 +1,12 @@
-id: ""
-name: ""
-by: ""
-credits: ""
-v: ""
-gameV: ""              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
+id: "RUO"
+name: "Resource Unload Optimizations"
+by: "ManlyMarco"
+credits: "https://github.com/ManlyMarco"
+v: "1"
+gameV: "U5-U6"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
 description: ""        # RU|EN
 DL_url: "https://github.com/bylka882-png/YanMod/releases/download/Plugins/ResourceUnloadOptimizations.7z"
-type: ""               # PM; Build; TR; ML; Mod; Plugin; Translate
+type: "Plugin"               # PM; Build; TR; ML; Mod; Plugin; Translate
 affected_files:
   - ""
 dependencies:
