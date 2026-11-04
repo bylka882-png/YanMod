@@ -5,7 +5,7 @@ credits: ""
 v: ""
 gameV: ""              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
 description: ""        # RU|EN
-DL_url: ""
+DL_url: "https://github.com/bylka882-png/YanMod/releases/download/Mods/Customize2.7z"
 type: ""               # PM; Build; TR; ML; Mod; Plugin; Translate
 affected_files:
   - ""
