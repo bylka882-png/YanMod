@@ -1,0 +1,14 @@
+id: "KizanaChallenge"
+name: "Kizana Challenge"
+by: "PolLuxe"
+credits: "https://www.youtube.com/@polluxe5517"
+v: "1"
+gameV: "U20"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
+description: ""        # RU|EN
+DL_url: ""
+type: "build"               # PM; Build; TR; ML; Mod; Plugin; Translate
+cfg: ""
+affected_files:
+  - ""
+dependencies:
+  - ""

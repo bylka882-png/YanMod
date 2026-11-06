@@ -7,6 +7,7 @@ gameV: "U5-U6"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/
 description: ""        # RU|EN
 DL_url: "https://github.com/bylka882-png/YanMod/releases/download/Plugins/SuppressGetTypesErrorsPatcher.7z"
 type: "Plugin"               # PM; Build; TR; ML; Mod; Plugin; Translate
+cfg: ""
 affected_files:
   - ""
 dependencies:
