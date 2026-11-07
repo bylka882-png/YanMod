@@ -2,7 +2,7 @@ id: "ADS"
 name: "Ayano's Daughter Simulator"
 by: "Neyzonhg-Kun"
 credits: "https://www.youtube.com/@neyzonhg"
-v: "2"
+v: "6"
 gameV: "U20"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
 description: "Дочь Аяно, Кана Аиши https://www.youtube.com/watch?v=rI1jqzNpokQ&t=10s|Ayano's Daughter, Kana Aishi https://www.youtube.com/watch?v=rI1jqzNpokQ&t=10s"        # RU|EN
 DL_url: ""
