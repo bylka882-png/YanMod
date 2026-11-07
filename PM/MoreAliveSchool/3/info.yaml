@@ -2,10 +2,10 @@ id: "MAS"
 name: "More Alive School Mod"
 by: "joaquito_0"
 credits: ""
-v: "1"
+v: "3"
 gameV: ""              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
 description: ""        # RU|EN
-DL_url: "https://github.com/bylka882-png/YanMod/releases/download/PM/MoreAliveSchool.7z"
+DL_url: ""
 type: "PM"               # PM; Build; TR; ML; Mod; Plugin; Translate
 cfg: ""
 affected_files:
