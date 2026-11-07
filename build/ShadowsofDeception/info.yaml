@@ -4,9 +4,10 @@ by: "Rommy"
 credits: "https://www.youtube.com/@Rommy_ys"
 v: "1.2"
 gameV: "U20"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
-description: ""        # RU|EN
+description: "https://www.youtube.com/watch?v=IdGHKo5DXkA https://www.youtube.com/watch?v=ptlzsVQ7C6c https://www.youtube.com/watch?v=-kr1pGqnCW0|https://www.youtube.com/watch?v=IdGHKo5DXkA https://www.youtube.com/watch?v=ptlzsVQ7C6c https://www.youtube.com/watch?v=-kr1pGqnCW0"        # RU|EN
 DL_url: ""
 type: "Build"               # PM; Build; TR; ML; Mod; Plugin; Translate
+ioa: "PoseMod; 5"
 cfg: ""
 affected_files:
   - ""

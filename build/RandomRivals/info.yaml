@@ -7,7 +7,7 @@ gameV: "U20"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6
 description: "https://www.youtube.com/watch?v=M5MRHWxmDFE https://www.youtube.com/watch?v=mMFMx-_o1wM|https://www.youtube.com/watch?v=M5MRHWxmDFE https://www.youtube.com/watch?v=mMFMx-_o1wM"        # RU|EN
 DL_url: ""
 type: "Build"               # PM; Build; TR; ML; Mod; Plugin; Translate
-ioa: "PoseMod; 5"
+ioa: "PoseMod; 4"
 cfg: ""
 affected_files:
   - ""

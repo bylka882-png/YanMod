@@ -5,7 +5,7 @@ credits: "https://www.youtube.com/@Rommy_ys"
 v: "1"
 gameV: "U20"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
 description: "Мод, добавляющий рождественскую вечеринку и праздничные социальные челленджи https://www.youtube.com/watch?v=wtUnoRElt44|A mod that adds a Christmas party and holiday social challenges https://www.youtube.com/watch?v=wtUnoRElt44"        # RU|EN
-DL_url: ""
+DL_url: "https://github.com/bylka882-png/YanMod/releases/download/ChristmasParty/ChristmasParty.7z.001; ChristmasParty.7z.002"
 type: "Build"               # PM; Build; TR; ML; Mod; Plugin; Translate
 ioa: "PoseMod; 5"
 cfg: ""
