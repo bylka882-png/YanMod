@@ -1,0 +1,15 @@
+id: "rrm"
+name: "Random Rivals Mod"
+by: "Rommy"
+credits: "https://www.youtube.com/@Rommy_ys"
+v: "3.2"
+gameV: "U6"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
+description: "https://www.youtube.com/watch?v=M5MRHWxmDFE https://www.youtube.com/watch?v=mMFMx-_o1wM|https://www.youtube.com/watch?v=M5MRHWxmDFE https://www.youtube.com/watch?v=mMFMx-_o1wM"        # RU|EN
+DL_url: ""
+type: "Build"               # PM; Build; TR; ML; Mod; Plugin; Translate
+ioa: "PoseMod; 6"
+cfg: ""
+affected_files:
+  - ""
+dependencies:
+  - ""
