@@ -11,4 +11,4 @@ cfg: ""
 affected_files:
   - ""
 dependencies:
-  - ""
+  - "PoseMod"

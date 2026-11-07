@@ -10,4 +10,4 @@ type: "PM"               # PM; Build; TR; ML; Mod; Plugin; Translate
 affected_files:
   - ""
 dependencies:
-  - ""
+  - "PoseMod"
