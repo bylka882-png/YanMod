@@ -1,0 +1,15 @@
+id: ""
+name: "Academy High"
+by: "Soulfuul"
+credits: "https://www.youtube.com/@Soulfuul; https://discord.com/invite/Wtn4FbURgJ"
+v: "4.3"
+gameV: "2023.09.04"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
+description: ""        # RU|EN
+DL_url: ""
+type: "Build"               # PM; Build; TR; ML; Mod; Plugin; Translate
+ioa: "PoseMod; U20"
+cfg: ""
+affected_files:
+  - ""
+dependencies:
+  - ""
