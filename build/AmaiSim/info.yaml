@@ -1,0 +1,15 @@
+id: "AmSi"
+name: "Amai Simulator"
+by: ""
+credits: ""
+v: "2"
+gameV: "U19"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
+description: ""        # RU|EN
+DL_url: ""
+type: "Build"               # PM; Build; TR; ML; Mod; Plugin; Translate
+ioa: "PoseMod; 4"
+cfg: ""
+affected_files:
+  - ""
+dependencies:
+  - ""
