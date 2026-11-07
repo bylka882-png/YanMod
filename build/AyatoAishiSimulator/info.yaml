@@ -1,13 +1,13 @@
-id: ""
-name: ""
+id: "AAS"
+name: "Ayato Aishi Simulator"
 by: "Makiko-Chan"
 credits: ""
-v: ""
-gameV: ""              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
+v: "1"
+gameV: "U19"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
 description: ""        # RU|EN
 DL_url: "https://github.com/bylka882-png/YanMod/releases/download/AyatoAishiSimulator/AyatoAishiSimulator.7z"
-type: ""               # PM; Build; TR; ML; Mod; Plugin; Translate
-ioa: ""
+type: "Build"               # PM; Build; TR; ML; Mod; Plugin; Translate
+ioa: "PoseMod; 4"
 cfg: ""
 affected_files:
   - ""
