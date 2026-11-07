@@ -4,9 +4,10 @@ by: "PolLuxe"
 credits: "https://www.youtube.com/@polluxe5517"
 v: "1"
 gameV: "U20"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
-description: ""        # RU|EN
+description: "Мод, добавляющий сюжетный метод устранения Осаны путем доведения её до убийства собственного преследователя https://www.youtube.com/watch?v=VlNC0Aiu00k&t=16s|A mod that adds a story-driven method for eliminating Osana by driving her to kill her own stalker https://www.youtube.com/watch?v=VlNC0Aiu00k&t=16s"        # RU|EN
 DL_url: ""
 type: "Build"               # PM; Build; TR; ML; Mod; Plugin; Translate
+ioa: ""
 cfg: ""
 affected_files:
   - ""

@@ -4,9 +4,10 @@ by: "PolLuxe"
 credits: "https://www.youtube.com/@polluxe5517"
 v: "1"
 gameV: "U20"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
-description: "Мод, позволяющая присоединиться к задирам|A mod that allows you to join the bullies"        # RU|EN
+description: "Мод, позволяющая присоединиться к задирам https://www.youtube.com/watch?v=jNFC4sVgwNE&t=34s|A mod that allows you to join the bullies https://www.youtube.com/watch?v=jNFC4sVgwNE&t=34s"        # RU|EN
 DL_url: "https://github.com/bylka882-png/YanMod/releases/download/Bullies/Bullies.7z"
 type: "build"               # PM; Build; TR; ML; Mod; Plugin; Translate
+ioa: ""
 cfg: ""
 affected_files:
   - ""

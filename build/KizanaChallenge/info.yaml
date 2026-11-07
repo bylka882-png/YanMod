@@ -4,9 +4,10 @@ by: "PolLuxe"
 credits: "https://www.youtube.com/@polluxe5517"
 v: "1"
 gameV: "U20"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
-description: ""        # RU|EN
+description: "https://www.youtube.com/watch?v=Scn44aWF7NA&t=47s https://www.youtube.com/watch?v=a05SJ1cs45c&pp=0gcJCUEMAYcqIYzv|https://www.youtube.com/watch?v=Scn44aWF7NA&t=47s https://www.youtube.com/watch?v=a05SJ1cs45c&pp=0gcJCUEMAYcqIYzv"        # RU|EN
 DL_url: ""
 type: "build"               # PM; Build; TR; ML; Mod; Plugin; Translate
+ioa: ""
 cfg: ""
 affected_files:
   - ""

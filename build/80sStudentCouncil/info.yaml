@@ -7,6 +7,7 @@ gameV: "U20"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6
 description: "Мод «1980s Student Council» — это обновленная версия мода «Student Council», которая позволяет игроку вступить в ряды студенческого совета https://www.youtube.com/watch?v=45xn0F4T2GU https://www.youtube.com/watch?v=W7LTQuRFaog&t=14s|The «1980s Student Council» mod is an update of the «Student Council» mod that allows the player to join the student council https://www.youtube.com/watch?v=45xn0F4T2GU https://www.youtube.com/watch?v=W7LTQuRFaog&t=14s"        # RU|EN
 DL_url: "https://github.com/bylka882-png/YanMod/releases/download/80sStudentCouncil/80sStudentCouncil.7z"
 type: "build"               # PM; Build; TR; ML; Mod; Plugin; Translate
+ioa: ""
 cfg: ""
 affected_files:
   - ""

@@ -4,9 +4,10 @@ by: "PolLuxe"
 credits: "https://www.youtube.com/@polluxe5517"
 v: "1"
 gameV: "U20"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
-description: ""        # RU|EN
+description: "https://www.youtube.com/watch?v=ngVRE055Mfg&t=14s|https://www.youtube.com/watch?v=ngVRE055Mfg&t=14s"        # RU|EN
 DL_url: "https://github.com/bylka882-png/YanMod/releases/download/Kidnapping/Kidnapping.7z"
 type: "build"               # PM; Build; TR; ML; Mod; Plugin; Translate
+ioa: ""
 cfg: ""
 affected_files:
   - ""
