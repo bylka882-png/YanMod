@@ -3,11 +3,11 @@ name: "New Environment Mod"
 by: "Rommy"
 credits: ""
 v: ""
-gameV: ""              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
+gameV: "U6"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
 description: ""        # RU|EN
 DL_url: ""
 type: "PM"               # PM; Build; TR; ML; Mod; Plugin; Translate
 affected_files:
   - ""
 dependencies:
-  - "PoseMod"
+  - "PoseMod; 6"

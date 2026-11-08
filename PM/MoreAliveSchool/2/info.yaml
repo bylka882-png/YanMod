@@ -3,7 +3,7 @@ name: "More Alive School Mod"
 by: "joaquito_0"
 credits: ""
 v: "2"
-gameV: ""              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
+gameV: "U19"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
 description: ""        # RU|EN
 DL_url: "https://github.com/bylka882-png/YanMod/releases/download/PM/MoreAliveSchool.7z"
 type: "PM"               # PM; Build; TR; ML; Mod; Plugin; Translate
@@ -11,4 +11,4 @@ cfg: ""
 affected_files:
   - ""
 dependencies:
-  - "PoseMod"
+  - "PoseMod; 4"

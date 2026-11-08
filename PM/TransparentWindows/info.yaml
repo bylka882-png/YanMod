@@ -1,9 +1,9 @@
-id: "MAS"
-name: "More Alive School Mod"
-by: "joaquito_0"
-credits: ""
-v: ""
-gameV: ""              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
+id: "TW"
+name: "Transparent Windows"
+by: "Rommy"
+credits: "https://www.youtube.com/@Rommy_ys"
+v: "1"
+gameV: "U6"              # <= / >=; yyyy.mm.dd-yyyy.mm.dd; U4/U5/U17/U19/U20/U6; own
 description: ""        # RU|EN
 DL_url: "https://github.com/bylka882-png/YanMod/releases/download/PM/TransparentWindows.7z"
 type: "PM"               # PM; Build; TR; ML; Mod; Plugin; Translate
@@ -11,4 +11,4 @@ cfg: ""
 affected_files:
   - ""
 dependencies:
-  - "PoseMod"
+  - "PoseMod; 6"
