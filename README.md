@@ -2,8 +2,8 @@
 
 Моды, готовые сборки и переводы для Yandere Simulator. Архивы лежат в [Releases](https://github.com/bylka882-png/YanMod/releases), манифесты и изображения — в этом репозитории.
 
-- Веб-каталог: https://bylka882-png.github.io/YanMod/
-- Лаунчер: https://github.com/bylka882-png/YanLan
+<a href="https://bylka882-png.github.io/YanMod"><img src="https://img.shields.io/badge/Catalog-YanMod-D13477?style=for-the-badge" align="center" alt="Catalog YanMod"></a>
+<a href="https://github.com/bylka882-png/YanLan"><img src="https://img.shields.io/badge/Launcher-YanLan-D60F62?style=for-the-badge" align="center" alt="Launcher YanLan"></a>
 
 ## Веб-каталог
 
@@ -75,6 +75,7 @@ gameV: ">=U17"
 description: "Русское описание|English description"
 DL_url: "https://github.com/bylka882-png/YanMod/releases/download/MyMod/MyMod.7z"
 type: "Mod"
+ioa: "PoseMod; 6"
 cfg: "BepInEx/config/MyMod.cfg"
 affected_files:
   - "BepInEx/plugins/MyMod.dll"
@@ -93,8 +94,8 @@ dependencies:
 | `description` | Текст в формате `RU\|EN`. Если перевода нет, достаточно одной части. |
 | `DL_url` | Прямая ссылка на архив. Пусто — карточка «Скоро». Несколько томов — через `;`. |
 | `type` | Раздел: `Mod`, `PM`, `TR`, `ML`, `Build`, `Plugin`, `Translate`. Несколько — через `;`. Пусто — по верхней папке. |
-| `cfg` | Путь к конфигу от корня сборки. Нужен редактору конфигов. |
 | `ioa` | Только для `Build`: моды, которые уже входят в сборку (`"PoseMod; 5"`). Показываются в карточке. |
+| `cfg` | Путь к конфигу от корня сборки. Нужен редактору конфигов. |
 | `affected_files` | Список файлов, которые заменяет мод. Используется для проверки конфликтов. |
 | `dependencies` | Список зависимостей в формате `"id; версия"`. Версию можно не указывать — подберётся совместимая. |
 
