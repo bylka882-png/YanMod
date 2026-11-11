@@ -2,8 +2,8 @@
 
 Моды, готовые сборки и переводы для Yandere Simulator. Архивы лежат в [Releases](https://github.com/bylka882-png/YanMod/releases), манифесты и изображения — в этом репозитории.
 
-- Веб-каталог: https://bylka882-png.github.io/YanMod/
-- Лаунчер: https://github.com/bylka882-png/YanLan
+<a href="https://bylka882-png.github.io/YanMod"><img src="https://img.shields.io/badge/Catalog-YanMod-D13477?style=for-the-badge" align="center" alt="Catalog YanMod"></a>
+<a href="https://github.com/bylka882-png/YanLan"><img src="https://img.shields.io/badge/Launcher-YanLan-D60F62?style=for-the-badge" align="center" alt="Launcher YanLan"></a>
 
 ## Веб-каталог
 
@@ -25,14 +25,6 @@
 Без сети показывается последняя сохранённая копия, если она была. В приватном режиме браузер может запретить кэш. Для многотомного архива браузер может спросить разрешение на несколько загрузок.
 
 Сама страница обновляется вместе с `index.html`: GitHub Pages отдаёт этот файл из репозитория.
-
-## Скачать и установить
-
-1. Открыть веб-каталог или [Releases](https://github.com/bylka882-png/YanMod/releases).
-2. Выбрать мод и версию игры.
-3. Скачать архив.
-4. Установить через лаунчер YanLan или вручную: `Build` распаковать в отдельную папку, остальные моды — в корень сборки.
-5. Многотомный архив: скачать все части и распаковать первую (`.001`).
 
 ## Структура
 
@@ -75,6 +67,7 @@ gameV: ">=U17"
 description: "Русское описание|English description"
 DL_url: "https://github.com/bylka882-png/YanMod/releases/download/MyMod/MyMod.7z"
 type: "Mod"
+ioa: "PoseMod; 6"
 cfg: "BepInEx/config/MyMod.cfg"
 affected_files:
   - "BepInEx/plugins/MyMod.dll"
@@ -93,8 +86,8 @@ dependencies:
 | `description` | Текст в формате `RU\|EN`. Если перевода нет, достаточно одной части. |
 | `DL_url` | Прямая ссылка на архив. Пусто — карточка «Скоро». Несколько томов — через `;`. |
 | `type` | Раздел: `Mod`, `PM`, `TR`, `ML`, `Build`, `Plugin`, `Translate`. Несколько — через `;`. Пусто — по верхней папке. |
-| `cfg` | Путь к конфигу от корня сборки. Нужен редактору конфигов. |
 | `ioa` | Только для `Build`: моды, которые уже входят в сборку (`"PoseMod; 5"`). Показываются в карточке. |
+| `cfg` | Путь к конфигу от корня сборки. Нужен редактору конфигов. |
 | `affected_files` | Список файлов, которые заменяет мод. Используется для проверки конфликтов. |
 | `dependencies` | Список зависимостей в формате `"id; версия"`. Версию можно не указывать — подберётся совместимая. |
 
@@ -128,35 +121,6 @@ dependencies:
 - `ico.webp` — квадратная иконка в углу обложки. Также понимаются `icon.webp` и `ico.png`.
 - Если скриншотов нет, обложкой станет превью видео, затем иконка.
 - PNG годится только для иконки. Скриншоты — webp или gif.
-
-## Архивы и `DL_url`
-
-Архивы в git не попадают — `.gitignore` исключает 7z, zip и rar. Они хранятся в Releases.
-
-Прямая ссылка выглядит так:
-
-```yaml
-DL_url: "https://github.com/bylka882-png/YanMod/releases/download/MyMod/MyMod.7z"
-```
-
-Многотомный архив: первая часть — полный адрес, остальные — имена файлов в той же папке релиза.
-
-```yaml
-DL_url: "https://github.com/bylka882-png/YanMod/releases/download/ChristmasParty/ChristmasParty.7z.001; ChristmasParty.7z.002; ChristmasParty.7z.003"
-```
-
-Пустой `DL_url` — карточка «Скоро» без кнопки скачивания. Лаунчер понимает 7z, zip и rar; для многотомных архивов используйте 7z.
-
-## Как добавить мод
-
-1. Создать папку в нужном разделе: `mod/MyMod/`.
-2. Скопировать `info.yaml` из корня и заполнить поля.
-3. Положить `1.webp` и другие скриншоты, при желании `ico.webp`.
-4. Упаковать мод в 7z, загрузить в Releases и скопировать прямую ссылку.
-5. Вставить ссылку в `DL_url`.
-6. Обновить каталог.
-
-Отдельный индекс вести не нужно: каталог собирается из всех `info.yaml` в репозитории. В лаунчере и на странице кэш живёт 6 часов, кнопка «Обновить» сбрасывает его сразу.
 
 ## Права
 
