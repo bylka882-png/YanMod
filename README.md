@@ -61,7 +61,7 @@ build/ChristmasPartyMod/
 
 ## Манифест `info.toml`
 
-Полные правила — в [toml.md](toml.md). Готовый пример — в [пример.toml](пример.toml).
+Полные правила — в [toml.md](TOML.md). Готовый пример — в [info.toml](info.toml).
 
 ```toml
 [info]
