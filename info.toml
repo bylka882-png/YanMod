@@ -1,0 +1,92 @@
+# Полный пример манифеста YanMod.
+# Один мод (или одна сборка) = одна папка с info.toml.
+# Всё, что не нужно, можно удалить вместе с комментарием.
+# Подробности и правила — в toml.md рядом с этим файлом.
+
+[info]
+# Уникальный идентификатор. Такой же, как имя архива в Releases.
+# Без пробелов и ; . Регистр не важен: cpm = CPM.
+id = "CPM"
+
+# Отображаемое имя в каталоге.
+name = "Christmas Party Mod"
+
+# Автор мода.
+author = "Rommy"
+
+# Раздел каталога. Одно значение:
+# PM | Build | TR | ML | Mod | Plugin | Translate
+type = "Build"
+
+# Совместимость. Пусто = неизвестно. Форматы:
+#   U20                 одна версия Unity
+#   U4-U6               диапазон Unity
+#   >=U17               не старее
+#   <=U20               не новее
+#   2021.02.01          конкретная сборка
+#   2021.02.01-2021.10.01   период
+game_versions = "U4-U6"
+
+# Версия мода. Показывается в карточке и используется в зависимостях.
+mod_version = "1.0.0"
+
+# Теги для поиска и фильтра. Только латиница, нижний регистр, не больше 5.
+tags = ["christmas", "party", "social"]
+
+[credits]
+# Ссылки автора. Пустые строки просто не выводить в карточке.
+boosty = ""
+discord = ""
+github = ""
+itchio = ""
+patreon = ""
+telegram = ""
+youtube = "https://www.youtube.com/@Rommy_ys"
+
+[description]
+# en обязателен. ru можно не писать — тогда покажется английский.
+en = "A mod that adds a Christmas party and holiday social challenges"
+ru = "Мод, добавляющий рождественскую вечеринку и праздничные социальные челленджи"
+
+# Ссылки на YouTube. Каждая показывается отдельным превью с плеером.
+videos = [
+    "https://www.youtube.com/watch?v=wtUnoRElt44",
+]
+
+# Тома архива. Номер после точки задаёт порядок склейки:
+# part1, part2, ... part9. Один архив = один том part1.
+# url  — прямая ссылка на файл.
+# size — размер в байтах.
+# sha256 — контрольная сумма файла, шестнадцатеричная строка.
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/ChristmasParty/ChristmasParty.7z.001"
+size = 1939865600
+sha256 = "3E3FDF871364CF3367182A9D1B7B3C4C498111C1C1FE32DC02007BEB44859F52"
+
+[download.part2]
+url = "https://github.com/bylka882-png/YanMod/releases/download/ChristmasParty/ChristmasParty.7z.002"
+size = 659016207
+sha256 = "167136EC6ACC51EAAE2657CFD74026F37132468ED5571DD498D58A5B1CCC2AEF"
+
+[files]
+# Путь к конфигу от корня сборки. Слэши удваиваются: \\ .
+# Можно оставить пустым, если конфига нет.
+config = "BepInEx\\config\\BepInEx.cfg"
+
+# Файлы, которые мод заменяет в сборке. Нужны для проверки конфликтов.
+affected_files = [
+    "PoseMod\\Modules\\pmcore00.dll",
+]
+
+# Только для type = "Build": моды, которые уже входят в сборку.
+# v можно не писать. Этот список показывается в карточке сборки.
+installed = [
+    { id = "posemod", v = "5" },
+    { id = "bee" },
+]
+
+# Зависимости. v необязательна: без неё подберётся совместимая версия.
+# optional = true — мод работает и без неё.
+dependencies = [
+    { id = "posemod", v = "5" },
+]
