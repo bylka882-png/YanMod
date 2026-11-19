@@ -42,7 +42,7 @@ YanMod/
 └─ README.md
 ```
 
-Один мод — одна папка с `info.toml` в подпапке версии. Верхняя папка подсказывает раздел, но настоящий тип — поле `type` в файле. `README.md` и `changelog.md` лежат в папке мода, общие для всех версий. Изображения — в папке версии.
+Один мод — одна папка с `info.toml` в подпапке версии. Верхняя папка подсказывает раздел, но настоящий тип — поле `type` в файле. `README.md` и `CHANGELOG.md` лежат в папке мода, общие для всех версий. Изображения — в папке версии.
 
 ```
 build/ChristmasPartyMod/
@@ -52,7 +52,7 @@ build/ChristmasPartyMod/
 ├─ 2.webp
 ├─ ico.webp
 ├─ README.md
-└─ changelog.md
+└─ CHANGELOG.md
 ```
 
 Одинаковый `id` в разных папках = версии одного мода. Они собираются в одну карточку и сортируются по `mod_version`.
@@ -61,7 +61,7 @@ build/ChristmasPartyMod/
 
 ## Манифест `info.toml`
 
-Полные правила — в [toml.md](TOML.md). Готовый пример — в [info.toml](info.toml).
+Полные правила — в [TOML.md](TOML.md). Готовый пример — в [info.toml](info.toml).
 
 ```toml
 [info]
