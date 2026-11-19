@@ -47,9 +47,10 @@ YanMod/
 ```
 build/ChristmasPartyMod/
 ├─ 1.0.0/
-│  ├─ info.toml
-│  ├─ 1.webp
-│  └─ 2.webp
+│  └─ info.toml
+├─ 1.webp
+├─ 2.webp
+├─ ico.webp
 ├─ README.md
 └─ changelog.md
 ```
@@ -151,9 +152,9 @@ dependencies = [
 - Если скриншотов нет, обложкой станет превью первого видео, затем иконка.
 - PNG годится только для иконки. Скриншоты — webp или gif.
 
-## README и changelog
+## README и CHANGELOG
 
-`README.md` и `changelog.md` лежат в папке мода, рядом с папками версий. README показывается под описанием, changelog — в свёрнутом блоке «Изменения». Регистр имени не важен.
+`README.md` и `CHANGELOG.md` лежат в папке мода, рядом с папками версий. README показывается под описанием, changelog — в свёрнутом блоке «Изменения». Регистр имени не важен.
 
 ## Права и лицензия
 
