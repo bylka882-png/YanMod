@@ -4,7 +4,7 @@ name = "Amai Simulator"
 author = "Monsterette"
 type = "Build"
 game_versions = "U19"
-mod_version = "2"
+mod_version = "2.0.0"
 tags = []
 
 [description]
@@ -21,9 +21,9 @@ telegram = ""
 youtube = "https://www.youtube.com/@Monsterette"
 
 [download]
-url = ""
-size = 0
-sha256 = ""
+url = "https://github.com/bylka882-png/YanMod/releases/download/AmSi/AmSi.7z"
+size = 1040051306
+sha256 = "b939fad97c71c1943cc823f734c1e32628f5806cf983c91731fcbd124a20bc81"
 
 [files]
 config = ""

@@ -1,0 +1,44 @@
+[info]
+id = "AH"
+name = "Academy High"
+author = "Soulfuul"
+type = "Build"
+game_versions = "2023.09.04"
+mod_version = "4.3.0"
+tags = []
+
+[description]
+en = ""
+videos = []
+
+[credits]
+boosty = ""
+discord = "https://discord.com/invite/Wtn4FbURgJ"
+github = ""
+itchio = ""
+patreon = ""
+telegram = ""
+youtube = "https://www.youtube.com/@Soulfuul"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/AH/AH.7z.001"
+size = 1887436800
+sha256 = "455c10f69d0c47a63c85ad21be87746bda97ec8ee57e99915bfa03e68a9a1f34"
+
+[download.part2]
+url = "https://github.com/bylka882-png/YanMod/releases/download/AH/AH.7z.002"
+size = 1887436800
+sha256 = "187ca92de9baf21ada218bf7beeec8d24fea01675350b54c00728fd9813aca22"
+
+[download.part3]
+url = "https://github.com/bylka882-png/YanMod/releases/download/AH/AH.7z.003"
+size = 627010908
+sha256 = "731d996f785f27f960f151d1ae0b2ba6b44ac5d8ef289015624392f7c82cd4df"
+
+[files]
+config = ""
+affected_files = []
+installed = [
+    { id = "posemod", v = "5" }
+]
+dependencies = []
