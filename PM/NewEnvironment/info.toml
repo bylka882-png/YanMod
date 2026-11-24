@@ -4,6 +4,31 @@ name = "New Environment Mod"
 author = "Rommy"
 type = "PM"
 game_versions = "U6"
+mod_version = ""
+tags = []
+
+[description]
+en = ""
+videos = []
+
+[credits]
+boosty = ""
+discord = ""
+github = ""
+itchio = ""
+patreon = ""
+telegram = ""
+youtube = ""
+
+[download]
+url = ""
+size = 0
+sha256 = ""
 
 [files]
-dependencies = [{ id = "PoseMod", version = "6" }]
+config = ""
+affected_files = []
+installed = []
+dependencies = [
+    { id = "PoseMod", v = "6" },
+]

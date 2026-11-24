@@ -5,11 +5,28 @@ author = "kgftbz"
 type = "ML"
 game_versions = "U17"
 mod_version = "3.2"
+tags = []
+
+[description]
+en = ""
+videos = []
 
 [credits]
+boosty = ""
+discord = ""
+github = ""
+itchio = ""
+patreon = ""
+telegram = ""
 youtube = "https://www.youtube.com/@kgftbz"
 
-[download.part1]
+[download]
 url = "https://github.com/bylka882-png/YanMod/releases/download/PoseMod/PoseModU172.7z"
 size = 0
 sha256 = ""
+
+[files]
+config = ""
+affected_files = []
+installed = []
+dependencies = []

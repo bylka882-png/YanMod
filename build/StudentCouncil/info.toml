@@ -5,7 +5,7 @@ author = "PolLuxe"
 type = "Build"
 game_versions = "U20"
 mod_version = "1"
-ioa = "PoseMod; 4"
+tags = []
 
 [description]
 en = "The mod that allows the player to join the student council"
@@ -16,9 +16,23 @@ videos = [
 ]
 
 [credits]
+boosty = ""
+discord = ""
+github = ""
+itchio = ""
+patreon = ""
+telegram = ""
 youtube = "https://www.youtube.com/@polluxe5517"
 
-[download.part1]
+[download]
 url = "https://github.com/bylka882-png/YanMod/releases/download/StudentCouncil/StudentCouncil.7z"
 size = 0
 sha256 = ""
+
+[files]
+config = ""
+affected_files = []
+installed = [
+    { id = "posemod", v = "4" }
+]
+dependencies = []

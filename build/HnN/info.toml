@@ -5,11 +5,28 @@ author = "Hiwata No Nadoko"
 type = "Build"
 game_versions = "U4"
 mod_version = "2"
+tags = []
+
+[description]
+en = ""
+videos = []
 
 [credits]
+boosty = ""
+discord = ""
+github = ""
+itchio = ""
+patreon = ""
+telegram = ""
 youtube = "https://www.youtube.com/@HiwatanoNadoko"
 
-[download.part1]
+[download]
 url = "https://github.com/bylka882-png/YanMod/releases/download/HNN/HnN.7z"
 size = 0
 sha256 = ""
+
+[files]
+config = ""
+affected_files = []
+installed = []
+dependencies = []

@@ -5,7 +5,7 @@ author = "Rommy"
 type = "Build"
 game_versions = "U6"
 mod_version = "3.2"
-ioa = "PoseMod; 6"
+tags = []
 
 [description]
 en = ""
@@ -15,4 +15,23 @@ videos = [
 ]
 
 [credits]
+boosty = ""
+discord = ""
+github = ""
+itchio = ""
+patreon = ""
+telegram = ""
 youtube = "https://www.youtube.com/@Rommy_ys"
+
+[download]
+url = ""
+size = 0
+sha256 = ""
+
+[files]
+config = ""
+affected_files = []
+installed = [
+    { id = "posemod", v = "6" }
+]
+dependencies = []

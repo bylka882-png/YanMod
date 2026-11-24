@@ -5,11 +5,28 @@ author = "Kenny14653"
 type = "Plugin"
 game_versions = "U5-U6"
 mod_version = "1"
+tags = []
+
+[description]
+en = ""
+videos = []
 
 [credits]
-link = "https://github.com/Kenny14653"
+boosty = ""
+discord = ""
+github = "https://github.com/Kenny14653"
+itchio = ""
+patreon = ""
+telegram = ""
+youtube = ""
 
-[download.part1]
+[download]
 url = "https://github.com/bylka882-png/YanMod/releases/download/Plugins/YanSimModMenu.7z"
 size = 0
 sha256 = ""
+
+[files]
+config = ""
+affected_files = []
+installed = []
+dependencies = []

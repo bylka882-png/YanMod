@@ -5,7 +5,30 @@ author = "Soulfuul"
 type = "Build"
 game_versions = "2023.09.04"
 mod_version = "4.3"
-ioa = "PoseMod; U20"
+tags = []
+
+[description]
+en = ""
+videos = []
 
 [credits]
+boosty = ""
+discord = ""
+github = ""
+itchio = ""
+patreon = ""
+telegram = ""
 youtube = "https://www.youtube.com/@Soulfuul; https://discord.com/invite/Wtn4FbURgJ"
+
+[download]
+url = ""
+size = 0
+sha256 = ""
+
+[files]
+config = ""
+affected_files = []
+installed = [
+    { id = "posemod", v = "U20" }
+]
+dependencies = []

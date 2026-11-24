@@ -5,7 +5,7 @@ author = "Neyzonhg-Kun"
 type = "Build"
 game_versions = "U20"
 mod_version = "6"
-ioa = "PoseMod; 5"
+tags = []
 
 [description]
 en = "Ayano's Daughter, Kana Aishi"
@@ -15,9 +15,23 @@ videos = [
 ]
 
 [credits]
+boosty = ""
+discord = ""
+github = ""
+itchio = ""
+patreon = ""
+telegram = ""
 youtube = "https://www.youtube.com/@neyzonhg"
 
-[download.part1]
+[download]
 url = "https://github.com/bylka882-png/YanMod/releases/download/AyanosDaughter/AyanosDaughter.7z"
 size = 0
 sha256 = ""
+
+[files]
+config = ""
+affected_files = []
+installed = [
+    { id = "posemod", v = "5" }
+]
+dependencies = []

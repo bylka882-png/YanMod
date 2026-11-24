@@ -4,11 +4,31 @@ name = "New Environment RoofE"
 author = ""
 type = "PM"
 game_versions = "U6"
+mod_version = ""
+tags = []
 
-[download.part1]
+[description]
+en = ""
+videos = []
+
+[credits]
+boosty = ""
+discord = ""
+github = ""
+itchio = ""
+patreon = ""
+telegram = ""
+youtube = ""
+
+[download]
 url = "https://github.com/bylka882-png/YanMod/releases/download/PM/NewEnvironmentRoofE.7z"
 size = 0
 sha256 = ""
 
 [files]
-dependencies = [{ id = "PoseMod", version = "6" }]
+config = ""
+affected_files = []
+installed = []
+dependencies = [
+    { id = "PoseMod", v = "6" },
+]

@@ -5,14 +5,28 @@ author = "bbepis"
 type = "ML"
 game_versions = "U5"
 mod_version = "5.4.11"
+tags = []
+
+[description]
+en = ""
+videos = []
 
 [credits]
-link = "https://github.com/BepInEx/BepInEx"
+boosty = ""
+discord = ""
+github = "https://github.com/BepInEx/BepInEx"
+itchio = ""
+patreon = ""
+telegram = ""
+youtube = ""
 
-[download.part1]
+[download]
 url = "https://github.com/bylka882-png/YanMod/releases/download/BepinX/BepinX5.4.11.7z"
 size = 0
 sha256 = ""
 
 [files]
 config = 'BepInEx\config\BepInEx.cfg'
+affected_files = []
+installed = []
+dependencies = []

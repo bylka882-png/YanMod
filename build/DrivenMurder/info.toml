@@ -5,6 +5,7 @@ author = "PolLuxe"
 type = "Build"
 game_versions = "U20"
 mod_version = "1"
+tags = []
 
 [description]
 en = "A mod that adds a story-driven method for eliminating Osana by driving her to kill her own stalker"
@@ -14,4 +15,21 @@ videos = [
 ]
 
 [credits]
+boosty = ""
+discord = ""
+github = ""
+itchio = ""
+patreon = ""
+telegram = ""
 youtube = "https://www.youtube.com/@polluxe5517"
+
+[download]
+url = ""
+size = 0
+sha256 = ""
+
+[files]
+config = ""
+affected_files = []
+installed = []
+dependencies = []

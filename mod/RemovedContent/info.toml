@@ -2,9 +2,31 @@
 id = ""
 name = ""
 author = "AdvisoryCookie"
+type = ""
 game_versions = " 2016.09.29"
+mod_version = ""
+tags = []
 
-[download.part1]
+[description]
+en = ""
+videos = []
+
+[credits]
+boosty = ""
+discord = ""
+github = ""
+itchio = ""
+patreon = ""
+telegram = ""
+youtube = ""
+
+[download]
 url = "https://github.com/bylka882-png/YanMod/releases/download/Mods/RemovedContent.7z"
 size = 0
 sha256 = ""
+
+[files]
+config = ""
+affected_files = []
+installed = []
+dependencies = []

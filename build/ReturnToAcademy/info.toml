@@ -5,7 +5,7 @@ author = "Rommy"
 type = "Build"
 game_versions = "U19"
 mod_version = "1"
-ioa = "PoseMod; 4"
+tags = []
 
 [description]
 en = ""
@@ -21,9 +21,23 @@ videos = [
 ]
 
 [credits]
+boosty = ""
+discord = ""
+github = ""
+itchio = ""
+patreon = ""
+telegram = ""
 youtube = "https://www.youtube.com/@Rommy_ys"
 
-[download.part1]
+[download]
 url = "https://github.com/bylka882-png/YanMod/releases/download/RTAH/ReturnToAcademy.7z"
 size = 0
 sha256 = ""
+
+[files]
+config = ""
+affected_files = []
+installed = [
+    { id = "posemod", v = "4" }
+]
+dependencies = []

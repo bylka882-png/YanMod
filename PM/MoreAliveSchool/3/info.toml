@@ -5,6 +5,30 @@ author = "joaquito_0"
 type = "PM"
 game_versions = "U19"
 mod_version = "3"
+tags = []
+
+[description]
+en = ""
+videos = []
+
+[credits]
+boosty = ""
+discord = ""
+github = ""
+itchio = ""
+patreon = ""
+telegram = ""
+youtube = ""
+
+[download]
+url = ""
+size = 0
+sha256 = ""
 
 [files]
-dependencies = [{ id = "PoseMod", version = "4" }]
+config = ""
+affected_files = []
+installed = []
+dependencies = [
+    { id = "PoseMod", v = "4" },
+]
