@@ -1,0 +1,11 @@
+[info]
+id = "ZAM\"\""
+name = "Zombie Apocalypse Mod"
+author = "Tibu"
+type = "Build"
+game_versions = "U20"
+mod_version = "2"
+ioa = "PoseMod; 5"
+
+[credits]
+youtube = "https://www.youtube.com/@TibuYoutube"

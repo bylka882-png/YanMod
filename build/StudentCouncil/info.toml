@@ -1,0 +1,24 @@
+[info]
+id = "SC"
+name = "Student Council"
+author = "PolLuxe"
+type = "Build"
+game_versions = "U20"
+mod_version = "1"
+ioa = "PoseMod; 4"
+
+[description]
+en = "The mod that allows the player to join the student council"
+ru = "Мод, который позволяет игроку вступить в ряды студенческого совета"
+videos = [
+    "https://www.youtube.com/watch?v=bVz2dDBUp4k&t=1s",
+    "https://www.youtube.com/watch?v=RwMyo7lm0KI&t=9s",
+]
+
+[credits]
+youtube = "https://www.youtube.com/@polluxe5517"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/StudentCouncil/StudentCouncil.7z"
+size = 0
+sha256 = ""

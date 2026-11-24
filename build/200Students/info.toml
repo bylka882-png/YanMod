@@ -1,0 +1,38 @@
+[info]
+id = "MPM"
+name = "More Population Mod"
+author = "Rommy"
+type = "Build"
+game_versions = "U20"
+mod_version = "1.0.0"
+tags = []
+
+[credits]
+boosty = ""
+discord = ""
+github = ""
+itchio = ""
+patreon = ""
+telegram = ""
+youtube = "https://www.youtube.com/@polluxe5517"
+
+[description]
+en = "A mod that increases the number of students in a school to 200"
+ru = "Мод, который увеличивает количество учеников в школе до 200"
+videos = [
+    "https://www.youtube.com/watch?v=2jFDYDj0oJ4&t=2s&pp=0gcJCUEMAYcqIYzv",
+    "https://www.youtube.com/watch?v=DxZeST7hJGU&t=6s"
+]
+
+[download]
+url = "https://github.com/bylka882-png/YanMod/releases/download/200Students/200Students.7z"
+size = 2051748932
+sha256 = "316d523f290cb3b6ffdbfa8b677f54925533c536157c015dde0b381ae670f4bd"
+
+[files]
+config = ""
+affected_files = []
+installed = [
+    { id = "posemod", v = "5" }
+]
+dependencies = []

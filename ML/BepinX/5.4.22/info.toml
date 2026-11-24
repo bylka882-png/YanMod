@@ -1,0 +1,18 @@
+[info]
+id = "BepinX"
+name = "BepInEx"
+author = "bbepis"
+type = "ML"
+game_versions = "U19-U20"
+mod_version = "5.4.22"
+
+[credits]
+link = "https://github.com/BepInEx/BepInEx"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/BepinX/BepinX5.4.22.7z"
+size = 0
+sha256 = ""
+
+[files]
+config = 'BepInEx\config\BepInEx.cfg'

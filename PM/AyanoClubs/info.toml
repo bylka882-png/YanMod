@@ -1,0 +1,14 @@
+[info]
+id = "AC"
+name = "Ayano Clubs"
+author = ""
+type = "PM"
+game_versions = "U6"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/PM/AyanoClubs.7z"
+size = 0
+sha256 = ""
+
+[files]
+dependencies = [{ id = "PoseMod", version = "6" }]

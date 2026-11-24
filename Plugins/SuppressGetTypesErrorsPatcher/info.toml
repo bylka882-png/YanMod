@@ -1,0 +1,15 @@
+[info]
+id = "SGTEP"
+name = "Suppress Get Types Errors Patcher"
+author = "ManlyMarco"
+type = "Plugin"
+game_versions = "U5-U6"
+mod_version = "1"
+
+[credits]
+link = "https://github.com/ManlyMarco"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/Plugins/SuppressGetTypesErrorsPatcher.7z"
+size = 0
+sha256 = ""

@@ -1,0 +1,10 @@
+[info]
+id = "MAS"
+name = "More Alive School Mod"
+author = "joaquito_0"
+type = "PM"
+game_versions = "U19"
+mod_version = "4"
+
+[files]
+dependencies = [{ id = "PoseMod", version = "4" }]

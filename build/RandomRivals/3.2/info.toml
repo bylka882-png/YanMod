@@ -1,0 +1,18 @@
+[info]
+id = "rrm"
+name = "Random Rivals Mod"
+author = "Rommy"
+type = "Build"
+game_versions = "U6"
+mod_version = "3.2"
+ioa = "PoseMod; 6"
+
+[description]
+en = ""
+videos = [
+    "https://www.youtube.com/watch?v=M5MRHWxmDFE",
+    "https://www.youtube.com/watch?v=mMFMx-_o1wM",
+]
+
+[credits]
+youtube = "https://www.youtube.com/@Rommy_ys"

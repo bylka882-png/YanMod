@@ -1,0 +1,21 @@
+[info]
+id = "Kidnap"
+name = "Kidnapping"
+author = "PolLuxe"
+type = "Build"
+game_versions = "U20"
+mod_version = "1"
+
+[description]
+en = ""
+videos = [
+    "https://www.youtube.com/watch?v=ngVRE055Mfg&t=14s",
+]
+
+[credits]
+youtube = "https://www.youtube.com/@polluxe5517"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/Kidnapping/Kidnapping.7z"
+size = 0
+sha256 = ""

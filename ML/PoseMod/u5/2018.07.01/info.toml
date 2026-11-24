@@ -1,0 +1,15 @@
+[info]
+id = "PoseMod"
+name = "PoseMod"
+author = "kgftbz"
+type = "ML"
+game_versions = "U5"
+mod_version = "2.2"
+
+[credits]
+youtube = "https://www.youtube.com/@kgftbz"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/PoseMod/PoseModU52.7z"
+size = 0
+sha256 = ""

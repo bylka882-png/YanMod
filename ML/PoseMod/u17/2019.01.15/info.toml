@@ -1,0 +1,15 @@
+[info]
+id = "PoseMod"
+name = "PoseMod"
+author = "kgftbz"
+type = "ML"
+game_versions = "U17"
+mod_version = "3.1"
+
+[credits]
+youtube = "https://www.youtube.com/@kgftbz"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/PoseMod/PoseModU171.7z"
+size = 0
+sha256 = ""

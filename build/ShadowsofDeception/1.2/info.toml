@@ -1,0 +1,19 @@
+[info]
+id = "sod"
+name = "Shadows of Deception"
+author = "Rommy"
+type = "Build"
+game_versions = "U20"
+mod_version = "1.2"
+ioa = "PoseMod; 5"
+
+[description]
+en = ""
+videos = [
+    "https://www.youtube.com/watch?v=IdGHKo5DXkA",
+    "https://www.youtube.com/watch?v=ptlzsVQ7C6c",
+    "https://www.youtube.com/watch?v=-kr1pGqnCW0",
+]
+
+[credits]
+youtube = "https://www.youtube.com/@Rommy_ys"

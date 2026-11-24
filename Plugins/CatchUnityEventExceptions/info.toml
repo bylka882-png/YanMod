@@ -1,0 +1,15 @@
+[info]
+id = "CUEE"
+name = "Catch Unity Event Exceptions"
+author = "ManlyMarco"
+type = "Plugin"
+game_versions = "U5-U6"
+mod_version = "1"
+
+[credits]
+link = "https://github.com/ManlyMarco"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/Plugins/CatchUnityEventExceptions.7z"
+size = 0
+sha256 = ""

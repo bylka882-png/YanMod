@@ -1,0 +1,18 @@
+[info]
+id = "PoseMod"
+name = "PoseMod"
+author = "kgftbz"
+type = "ML"
+game_versions = "U19"
+mod_version = "4"
+
+[credits]
+youtube = "https://www.youtube.com/@kgftbz"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/PoseMod/PoseModU19.7z"
+size = 0
+sha256 = ""
+
+[files]
+config = 'YandereSimulator_Data\StreamingAssets oseMod\Settings.txt'

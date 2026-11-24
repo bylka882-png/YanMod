@@ -1,0 +1,16 @@
+[info]
+id = "ymm"
+name = "Yanmon Mod"
+author = "PolLuxe"
+type = "Build"
+game_versions = "U20"
+mod_version = "1"
+
+[description]
+en = ""
+videos = [
+    "https://www.youtube.com/watch?v=arqz_pIqQxM&t=51s",
+]
+
+[credits]
+youtube = "https://www.youtube.com/@polluxe5517"

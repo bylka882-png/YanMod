@@ -1,0 +1,23 @@
+[info]
+id = "80SC"
+name = "1980s Student Council"
+author = "PolLuxe"
+type = "Build"
+game_versions = "U20"
+mod_version = "1"
+
+[description]
+en = "The «1980s Student Council» mod is an update of the «Student Council» mod that allows the player to join the student council"
+ru = "Мод «1980s Student Council» — это обновленная версия мода «Student Council», которая позволяет игроку вступить в ряды студенческого совета"
+videos = [
+    "https://www.youtube.com/watch?v=45xn0F4T2GU",
+    "https://www.youtube.com/watch?v=W7LTQuRFaog&t=14s",
+]
+
+[credits]
+youtube = "https://www.youtube.com/@polluxe5517"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/80sStudentCouncil/80sStudentCouncil.7z"
+size = 0
+sha256 = ""

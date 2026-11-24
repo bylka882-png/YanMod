@@ -1,0 +1,18 @@
+[info]
+id = "ConMam"
+name = "Configuration Manager"
+author = "ManlyMarco"
+type = "Plugin"
+game_versions = "U5-U6"
+mod_version = "1"
+
+[credits]
+link = "https://github.com/ManlyMarco"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/Plugins/ConfigurationManager.7z"
+size = 0
+sha256 = ""
+
+[files]
+config = 'BepInEx\config\com.bepis.bepinex.configurationmanager.cfg'

@@ -1,0 +1,29 @@
+[info]
+id = "rtah"
+name = "Return to Akademi High"
+author = "Rommy"
+type = "Build"
+game_versions = "U19"
+mod_version = "1"
+ioa = "PoseMod; 4"
+
+[description]
+en = ""
+videos = [
+    "https://www.youtube.com/watch?v=5Dyh5t80pDE",
+    "https://www.youtube.com/watch?v=abX5Bvql7V0",
+    "https://www.youtube.com/watch?v=0CN0wbUogSY",
+    "https://www.youtube.com/watch?v=xTonbz6jdYY",
+    "https://www.youtube.com/watch?v=E8nok8DdyIU",
+    "https://www.youtube.com/watch?v=GOkLw-BfhQA",
+    "https://www.youtube.com/watch?v=oSICpSROxCI",
+    "https://www.youtube.com/watch?v=9NiBb_7wDQg",
+]
+
+[credits]
+youtube = "https://www.youtube.com/@Rommy_ys"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/RTAH/ReturnToAcademy.7z"
+size = 0
+sha256 = ""

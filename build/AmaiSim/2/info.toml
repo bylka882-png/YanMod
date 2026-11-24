@@ -1,0 +1,11 @@
+[info]
+id = "AmSi"
+name = "Amai Simulator"
+author = "Monsterette"
+type = "Build"
+game_versions = "U19"
+mod_version = "2"
+ioa = "PoseMod; 4"
+
+[credits]
+youtube = "https://www.youtube.com/@Monsterette"

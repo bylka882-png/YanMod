@@ -1,0 +1,15 @@
+[info]
+id = "YSMM"
+name = "YanSim Mod Menu"
+author = "Kenny14653"
+type = "Plugin"
+game_versions = "U5-U6"
+mod_version = "1"
+
+[credits]
+link = "https://github.com/Kenny14653"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/Plugins/YanSimModMenu.7z"
+size = 0
+sha256 = ""

@@ -1,0 +1,15 @@
+[info]
+id = "MAS"
+name = "More Alive School Mod"
+author = "joaquito_0"
+type = "PM"
+game_versions = "U19"
+mod_version = "2"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/PM/MoreAliveSchool.7z"
+size = 0
+sha256 = ""
+
+[files]
+dependencies = [{ id = "PoseMod", version = "4" }]

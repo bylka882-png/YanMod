@@ -1,0 +1,18 @@
+[info]
+id = "Midori"
+name = "Midori Challenge"
+author = "Rommy"
+type = "Build"
+game_versions = "U20"
+mod_version = "1"
+ioa = "PoseMod; 4"
+
+[description]
+en = ""
+videos = [
+    "https://www.youtube.com/watch?v=IcTdMT16Tgk",
+    "https://www.youtube.com/watch?v=scF8JUE-r4o",
+]
+
+[credits]
+youtube = "https://www.youtube.com/@Rommy_ys"

@@ -1,0 +1,18 @@
+[info]
+id = "PAR"
+name = "Play As Rommy"
+author = "Rommy"
+type = "PM"
+game_versions = "U6"
+mod_version = "1"
+
+[credits]
+youtube = "https://www.youtube.com/@Rommy_ys"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/PM/PlayAsRommy.v1.7z"
+size = 0
+sha256 = ""
+
+[files]
+dependencies = [{ id = "PoseMod", version = "6" }]

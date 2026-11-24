@@ -1,0 +1,22 @@
+[info]
+id = "Bul"
+name = "Bullies"
+author = "PolLuxe"
+type = "Build"
+game_versions = "U20"
+mod_version = "1"
+
+[description]
+en = "A mod that allows you to join the bullies"
+ru = "Мод, позволяющая присоединиться к задирам"
+videos = [
+    "https://www.youtube.com/watch?v=jNFC4sVgwNE&t=34s",
+]
+
+[credits]
+youtube = "https://www.youtube.com/@polluxe5517"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/Bullies/Bullies.7z"
+size = 0
+sha256 = ""

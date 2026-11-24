@@ -1,0 +1,17 @@
+[info]
+id = "ohs"
+name = "Oka`s Horror Story"
+author = "Rommy"
+type = "Build"
+game_versions = "U6"
+mod_version = "2"
+ioa = "PoseMod; 6"
+
+[description]
+en = ""
+videos = [
+    "https://www.youtube.com/watch?v=DhD-5l3l_po&t=15s",
+]
+
+[credits]
+youtube = "https://www.youtube.com/@Rommy_ys"

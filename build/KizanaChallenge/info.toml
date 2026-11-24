@@ -1,0 +1,17 @@
+[info]
+id = "KizanaChallenge"
+name = "Kizana Challenge"
+author = "PolLuxe"
+type = "Build"
+game_versions = "U20"
+mod_version = "1"
+
+[description]
+en = ""
+videos = [
+    "https://www.youtube.com/watch?v=Scn44aWF7NA&t=47s",
+    "https://www.youtube.com/watch?v=a05SJ1cs45c&pp=0gcJCUEMAYcqIYzv",
+]
+
+[credits]
+youtube = "https://www.youtube.com/@polluxe5517"

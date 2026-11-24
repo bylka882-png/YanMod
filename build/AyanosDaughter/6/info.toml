@@ -1,0 +1,23 @@
+[info]
+id = "ADS"
+name = "Ayano's Daughter Simulator"
+author = "Neyzonhg-Kun"
+type = "Build"
+game_versions = "U20"
+mod_version = "6"
+ioa = "PoseMod; 5"
+
+[description]
+en = "Ayano's Daughter, Kana Aishi"
+ru = "Дочь Аяно, Кана Аиши"
+videos = [
+    "https://www.youtube.com/watch?v=rI1jqzNpokQ&t=10s",
+]
+
+[credits]
+youtube = "https://www.youtube.com/@neyzonhg"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/AyanosDaughter/AyanosDaughter.7z"
+size = 0
+sha256 = ""

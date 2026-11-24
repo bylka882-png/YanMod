@@ -1,0 +1,13 @@
+[info]
+id = "AAS"
+name = "Ayato Aishi Simulator"
+author = "Makiko-Chan"
+type = "Build"
+game_versions = "U19"
+mod_version = "1"
+ioa = "PoseMod; 4"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/AyatoAishiSimulator/AyatoAishiSimulator.7z"
+size = 0
+sha256 = ""

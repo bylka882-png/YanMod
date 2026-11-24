@@ -1,0 +1,9 @@
+[info]
+id = "NewEnv"
+name = "New Environment Mod"
+author = "Rommy"
+type = "PM"
+game_versions = "U6"
+
+[files]
+dependencies = [{ id = "PoseMod", version = "6" }]

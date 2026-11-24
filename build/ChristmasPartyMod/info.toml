@@ -1,0 +1,23 @@
+[info]
+id = "CPM"
+name = "Christmas Party Mod"
+author = "Rommy"
+type = "Build"
+game_versions = "U20"
+mod_version = "1"
+ioa = "PoseMod; 5"
+
+[description]
+en = "A mod that adds a Christmas party and holiday social challenges"
+ru = "Мод, добавляющий рождественскую вечеринку и праздничные социальные челленджи"
+videos = [
+    "https://www.youtube.com/watch?v=wtUnoRElt44",
+]
+
+[credits]
+youtube = "https://www.youtube.com/@Rommy_ys"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/ChristmasParty/ChristmasParty.7z.001; ChristmasParty.7z.002"
+size = 0
+sha256 = ""

@@ -1,0 +1,15 @@
+[info]
+id = "HNN"
+name = "Bullied Simulator"
+author = "Hiwata No Nadoko"
+type = "Build"
+game_versions = "U4"
+mod_version = "2"
+
+[credits]
+youtube = "https://www.youtube.com/@HiwatanoNadoko"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/HNN/HnN.7z"
+size = 0
+sha256 = ""

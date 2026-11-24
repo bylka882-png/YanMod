@@ -1,0 +1,15 @@
+[info]
+id = "BD"
+name = "Beedrops Mod"
+author = "star60"
+type = "PM"
+game_versions = "U19"
+mod_version = "1.3"
+
+[download.part1]
+url = "https://github.com/bylka882-png/YanMod/releases/download/PM/Beedrops.7z"
+size = 0
+sha256 = ""
+
+[files]
+dependencies = [{ id = "PoseMod", version = "4" }]
